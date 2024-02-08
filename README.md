@@ -1,7 +1,7 @@
 # Hello, I'm Scoopsies 👋
 
 I'm a transitioning software developer with expertise in the PERN (PostgreSQL, Express, React, Node.js) stack. 
-My previous experience includes sales, special events, automotive repair, and carpentry.
+My previous experience includes sales, special events, automotive repair, music tours, and carpentry.
 My goal is to contribute to projects that make a positive impact on our community and the world.
 
 ## 🔧 Technologies & Tools
