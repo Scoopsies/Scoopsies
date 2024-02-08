@@ -6,7 +6,7 @@ My goal is to contribute to projects that make a positive impact on our communit
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Frontend:** React.js, HTML, CSS, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Other:** RESTful APIs, VS Code, npm, Yarn
