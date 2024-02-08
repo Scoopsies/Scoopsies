@@ -20,7 +20,7 @@ I'm always eager to expand my knowledge and stay up-to-date with the latest tech
 Here are some projects I'm proud of:
 
 1. [Personal Site](https://github.com/Scoopsies/minimal-site) - A personal website I created to learn the Framer Motion animation library.
-2. [Harmonic Harbor](https://github.com/The-Whey/Capstone) - A e-commerce site. Was created as a 2 week sprint Agile project. I created everything in the project other than the CSS, and the search function.
+2. [DIY Dog](https://github.com/Scoopsies/BrewDog) - A recipe site for every BrewDog beer made until 2020.
 
 Feel free to explore my repositories to see more of my work.
 
@@ -31,6 +31,7 @@ I'm open to collaborating on projects that align with my interests and values. I
 ## 📫 Let's Connect
 
 - LinkedIn: [Michael Martin](www.linkedin.com/in/consolelog-michael-martin)
+- E-mail: [consolelogmichaelmartin@gmail.com](ConsoleLogMichaelMartin@gmail.com)
 
 ## 🌍 Making a Difference
 
