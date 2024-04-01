@@ -13,7 +13,7 @@ My goal is to contribute to projects that make a positive impact on our communit
 
 ## 🌱 What I'm Currently Learning
 
-I'm always eager to expand my knowledge and stay up-to-date with the latest technologies. Currently, I'm diving deeper into data structures and algorithms.
+I'm always eager to expand my knowledge and stay up-to-date with the latest technologies. Currently, I'm learning Python.
 
 ## 🚀 Projects
 
