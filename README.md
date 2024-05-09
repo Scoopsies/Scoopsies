@@ -7,13 +7,13 @@ My goal is to contribute to projects that make a positive impact on our communit
 ## 🔧 Technologies & Tools
 
 - **Frontend:** React.js, HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, PostgreSQL
+- **Backend:** Node.js, Express.js, PostgreSQL, Python
 - **Version Control:** Git, GitHub
 - **Other:** RESTful APIs, VS Code, npm, Yarn
 
 ## 🌱 What I'm Currently Learning
 
-I'm always eager to expand my knowledge and stay up-to-date with the latest technologies. Currently, I'm learning Python.
+I'm always eager to expand my knowledge and stay up-to-date with the latest technologies. Currently, I'm learning Clojure.
 
 ## 🚀 Projects
 
