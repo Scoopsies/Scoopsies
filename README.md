@@ -1,40 +1,26 @@
-# Hello, I'm Scoopsies 👋
+# Hello, I'm Scoopsies
 
-I'm a transitioning software developer with expertise in the PERN (PostgreSQL, Express, React, Node.js) stack. 
-My previous experience includes sales, special events, automotive repair, music tours, and carpentry.
-My goal is to contribute to projects that make a positive impact on our community and the world.
+## Software Craftsman | Polyglot Developer | Clean Code Advocate
+I'm a software craftsman who builds maintainable, well-tested systems regardless of language or paradigm. I recently completed 2 years at Clean Coders, where I trained under Micah Martin in an environment shaped by Robert C. Martin's (Uncle Bob) clean code principles, delivering custom solutions for diverse clients. I'm now seeking my next opportunity to apply these principles with a team that values craftsmanship.
 
-## 🔧 Technologies & Tools
+### What I Believe
 
-- **Frontend:** React.js, HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, PostgreSQL, Python
-- **Version Control:** Git, GitHub
-- **Other:** RESTful APIs, VS Code, npm, Yarn
+**Principles over tools.** Good software design transcends language. Whether I'm writing Clojure, Java, Python, Go, or JavaScript, I apply the same rigorous approach: comprehensive test coverage, SOLID design, and code that communicates intent.
 
-## 🌱 What I'm Currently Learning
+**Tests are not optional.** I practice Test-Driven Development because tests are both specification and safety net. They enable confident refactoring and sustainable velocity.
 
-I'm always eager to expand my knowledge and stay up-to-date with the latest technologies. Currently, I'm learning Clojure.
+**Code is for humans.** The compiler doesn't care about readability, but your teammates do. I write code that reveals intent and minimizes cognitive load.
 
-## 🚀 Projects
+### What I'm Looking For
 
-Here are some projects I'm proud of:
+I'm seeking teams and projects where:
+- Code quality and automated testing are non-negotiable
+- Software design is a first-class concern
+- Continuous learning is encouraged
+- Craftsmanship matters more than credentials
 
-1. [Personal Site](https://github.com/Scoopsies/minimal-site) - A personal website I created to learn the Framer Motion animation library.
-2. [DIY Dog](https://github.com/Scoopsies/BrewDog) - A recipe site for every BrewDog beer made until 2020.
+I'm technology-agnostic. I care more about building it right than building it in a specific language.
 
-Feel free to explore my repositories to see more of my work.
+---
 
-## 🤝 Open to Collaboration
-
-I'm open to collaborating on projects that align with my interests and values. If you have an exciting opportunity or need help on a project, feel free to reach out!
-
-## 📫 Let's Connect
-
-- LinkedIn: [Michael Martin](www.linkedin.com/in/consolelog-michael-martin)
-- E-mail: [consolelogmichaelmartin@gmail.com](ConsoleLogMichaelMartin@gmail.com)
-
-## 🌍 Making a Difference
-
-I'm passionate about leveraging technology to make a positive impact. Whether it's through open-source contributions or community-driven projects, I believe in using my skills to contribute to a better world.
-
-Let's collaborate and create something meaningful together! 🌟
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/consolelog-michael-martin/) | [Email](mailto:consolelogmichaelmartin@gmail.com)
